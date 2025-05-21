@@ -1,0 +1,5 @@
+git remote add origin https://github.com/Hanszzat/tajwid-web.git
+git add .
+git commit -m "Pertama kali muat naik laman tajwid"
+git branch -M main
+git push -u origin main
